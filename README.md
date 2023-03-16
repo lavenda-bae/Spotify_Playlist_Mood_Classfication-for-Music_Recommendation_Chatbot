@@ -242,7 +242,7 @@ ii) hidden layer와 hidden size를 각각 변경하여 모델 복잡도를 조�
 - 웹 페이지가 넘어가는 것 보다는 하나의 페이지안에서 동작하는 것이 자연스럽다 생각하여 Socket.IO 를 통해서 구현
 - 노래 5곡 추천과 해당 노래의 정보 확인 및 곡 듣기 가능
     
-    <img width="780" alt="스무디 flask1" src="https://user-images.githubusercontent.com/109712433/225649366-25fd8b13-55ee-4e19-be38-1db633a2d2dd.png">
+    <img width="746" alt="스무디 flask1" src="https://user-images.githubusercontent.com/109712433/225649366-25fd8b13-55ee-4e19-be38-1db633a2d2dd.png">
     
     하나의 페이지 안에서 동작 (Socket.IO를 통해 구현) 
     
