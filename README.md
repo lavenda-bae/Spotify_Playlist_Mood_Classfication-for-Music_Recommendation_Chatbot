@@ -71,9 +71,9 @@ row로 합침
 **2)Spotify Moods Data**
 
 **→ MySQL Emotion Songs DB 구축에 사용**
-
-!<img width="500" alt="스포티파이 데이터명세" src="https://user-images.githubusercontent.com/109712433/225647493-18c68b60-5705-4d74-b0d6-f30088f7d95a.png">
-
+<p align="center">
+<img width="500" alt="스포티파이 데이터명세" src="https://user-images.githubusercontent.com/109712433/225647493-18c68b60-5705-4d74-b0d6-f30088f7d95a.png">
+</p>
 - Spotify에서 랜덤으로 뽑은 학습용 데이터
 - ID : 곡의 전체 feature에 대한 ID
 - X_features : Danceability, Acousticness, Energy, Instrumentalness, Liveness, Valence,
