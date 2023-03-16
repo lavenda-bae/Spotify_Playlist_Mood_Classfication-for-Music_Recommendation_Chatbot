@@ -89,8 +89,9 @@ Loudness, Speechiness, Tempo 등 곡 리듬 정보를 수치형태로 담고 있
 **Emotion Songs DB 구축 유용 데이터 비교**
 
 (Melon 과 Spotify 음악 데이터)
-<img width="501" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png">
-<img width="419" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
+
+! <img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png">
+! <img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
 
 - Tags 예시
 [‘추억’, ‘회상’], [‘감성’,’ 시작’, ’출발’] 등
