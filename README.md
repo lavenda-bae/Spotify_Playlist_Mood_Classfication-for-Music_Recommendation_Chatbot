@@ -49,7 +49,7 @@
 
 - 총 데이터 수 : 74,857개
 
-!<img width="703" alt="스무디 데이터 명세 감성말뭉치" src="https://user-images.githubusercontent.com/109712433/225647501-b698eb85-53cc-413c-bdb0-e9542f465c43.png">
+<img width="500" alt="스무디 데이터 명세 감성말뭉치" src="https://user-images.githubusercontent.com/109712433/225647501-b698eb85-53cc-413c-bdb0-e9542f465c43.png">
 
 - [감정 대분류, 감정 소분류, 사람문장1]
 [감정 대분류, 감정 소분류, 사람문장2]
@@ -72,7 +72,7 @@ row로 합침
 
 **→ MySQL Emotion Songs DB 구축에 사용**
 
-!<img width="887" alt="스포티파이 데이터명세" src="https://user-images.githubusercontent.com/109712433/225647493-18c68b60-5705-4d74-b0d6-f30088f7d95a.png">
+!<img width="500" alt="스포티파이 데이터명세" src="https://user-images.githubusercontent.com/109712433/225647493-18c68b60-5705-4d74-b0d6-f30088f7d95a.png">
 
 - Spotify에서 랜덤으로 뽑은 학습용 데이터
 - ID : 곡의 전체 feature에 대한 ID
@@ -88,8 +88,7 @@ Loudness, Speechiness, Tempo 등 곡 리듬 정보를 수치형태로 담고 있
 
 (Melon 과 Spotify 음악 데이터)
 
-<img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png">
-<img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
+<img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png"> <img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
 
 - Tags 예시
 [‘추억’, ‘회상’], [‘감성’,’ 시작’, ’출발’] 등
