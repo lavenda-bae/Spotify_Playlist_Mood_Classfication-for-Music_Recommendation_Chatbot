@@ -1,10 +1,10 @@
 # Spotify_Playlist_Mood_Classfication-for-Music_Recommendation_Chatbot
 
-# **🚀 프로젝트 개요**
-
 ### **📅 프로젝트 진행기간**
 
 2022.12.09 ~ 2022. 12. 22
+
+# **🚀 프로젝트 개요**
 
 ## 💡프로젝트 진행 배경
 
