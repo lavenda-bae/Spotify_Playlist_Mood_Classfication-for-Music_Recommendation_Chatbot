@@ -59,7 +59,7 @@
 
 - 총 데이터 수 : 74,857개
 <p align="center">
-<img width="500" alt="스무디 데이터 명세 감성말뭉치" src="https://user-images.githubusercontent.com/109712433/225647501-b698eb85-53cc-413c-bdb0-e9542f465c43.png">
+<img width="400" alt="스무디 데이터 명세 감성말뭉치" src="https://user-images.githubusercontent.com/109712433/225647501-b698eb85-53cc-413c-bdb0-e9542f465c43.png">
 </p>
 - [감정 대분류, 감정 소분류, 사람문장1]
 [감정 대분류, 감정 소분류, 사람문장2]
