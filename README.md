@@ -33,26 +33,21 @@
 
 **유한솔**
 
-
 프로젝트 기획, 데이터 분석(Spotyfi train data, AI HUB 감성 말뭉치) 및 수집, 데이터 전처리(Spotyfi train data), Spotyfi Open API, 모델 학습 (Spotify Data - TensorFlow.Keras), UI(Figma) MySQL, PPT
 
 **여민희**
-
 
 프로젝트 기획, 데이터 분석 및 수집(AI HUB 감성 말뭉치), 데이터 전처리(AI HUB 감성 말뭉치), 모델 학습(감성말뭉치 - Kobert, kober-finetuning), MySQL, Flask, UI(Figma), PPT
 
 **윤병윤**
 
-
 모델 학습(감성말뭉치- Klue-KoBert), UI(Figma), PPT
 
 **이재엽**
 
-
 데이터 증강, 모델학습(Koelectra), Flask
 
 **전은성**
-
 
 모델 학습 (Roberta, Kobert-finetuning), Flask, CSS
 
