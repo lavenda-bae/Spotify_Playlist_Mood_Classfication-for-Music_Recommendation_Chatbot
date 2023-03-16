@@ -33,7 +33,7 @@
 
 **유한솔**
 
-프로젝트 기획, 데이터 분석(Spotyfi train data, AI HUB 감성 말뭉치) 및 수집, 데이터 전처리(Spotyfi train data), Spotyfi Open API, 모델 학습 (Spotify Data - TensorFlow.Keras), UI(Figma) MySQL, PPT
+프로젝트 기획, 데이터 분석 및 수집(Spotyfi train data, AI HUB 감성 말뭉치), 데이터 전처리(Spotyfi train data), Spotyfi Open API, 모델 학습 (Spotify Data - TensorFlow.Keras), UI(Figma) MySQL, PPT
 
 **여민희**
 
