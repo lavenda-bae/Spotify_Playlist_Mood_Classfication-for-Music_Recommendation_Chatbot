@@ -168,13 +168,13 @@ ii) hidden layer와 hidden size를 각각 변경하여 모델 복잡도를 조�
 2) **Augumentation**
 
 - 총 데이터 셋 : 290,311개
-- Pororo를통한역번역(Kor→En,En→Kor)증강후학습결과
+  - Pororo를통한역번역(Kor→En,En→Kor)증강후학습결과
     
     
-    | Model | Epoch | Max_len | Batch_size | Test_acc |
-    | --- | --- | --- | --- | --- |
-    | koelectra | 15 | 128 | 64 | 0.558 |
-    | Kobert | 15 | 64 | 8 | 0.582 |
+      | Model | Epoch | Max_len | Batch_size | Test_acc |
+      | --- | --- | --- | --- | --- |
+      | koelectra | 15 | 128 | 64 | 0.558 |
+      | Kobert | 15 | 64 | 8 | 0.582 |
 - **증강을했지만,모델의성능개선X**
     
     Why? 문장 자체가 짧아, 발화자의 감정이 충분히 반영되지 않았다고 추측
