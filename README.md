@@ -1,4 +1,4 @@
-# Spotify_Playlist_Mood_Classfication-for-Music_Recommendation_Chatbot
+# "SMOODY" Spotify_Playlist_Mood_Classfication-for-Music_Recommendation_Chatbot
 
 ### **📅 프로젝트 진행기간**
 
