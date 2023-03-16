@@ -21,7 +21,7 @@
 
 - User Input (감정 문장) → Sentence Classification → Spotify Moods Data로 구축한 DB에서 해당 Sentence의 감성과 Mapping Emotion Songs Picking → User Recommendation
 
-!<img width="999" alt="스무디프로젝트구조" src="https://user-images.githubusercontent.com/109712433/225647507-06868c4e-e196-49c8-b55f-bcfcc428992f.png"
+<img width="999" alt="스무디프로젝트구조" src="https://user-images.githubusercontent.com/109712433/225647507-06868c4e-e196-49c8-b55f-bcfcc428992f.png"
 
 ## 🏃‍♀️ **팀 구성 및 역할**
 
@@ -88,7 +88,7 @@ Loudness, Speechiness, Tempo 등 곡 리듬 정보를 수치형태로 담고 있
 
 (Melon 과 Spotify 음악 데이터)
 
-<img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png"> <img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
+<img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png"> <img width="390" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
 
 - Tags 예시
 [‘추억’, ‘회상’], [‘감성’,’ 시작’, ’출발’] 등
