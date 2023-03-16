@@ -178,7 +178,7 @@ ii) hidden layer와 hidden size를 각각 변경하여 모델 복잡도를 조�
 **TRAIN
 → 곡 별 감정 데이터 학습**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3cff6d8b-8d2a-45df-885b-151f2ffa0ec6/Untitled.png)
+![스포티파이 무드 cv](https://user-images.githubusercontent.com/109712433/225647471-797689f7-80af-451a-bc96-e6da59d180ed.png)
 
 - 음원의 음악적 특성을 통해 감정을 예측하는 모델 개발을 위해 사용
 - X_features(곡 리듬 정보, 9개)와 Y(mood)로 학습 진행
