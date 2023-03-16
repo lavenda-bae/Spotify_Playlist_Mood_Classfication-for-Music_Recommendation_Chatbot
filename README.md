@@ -25,7 +25,9 @@
 
 - User Input (감정 문장) → Sentence Classification → Spotify Moods Data로 구축한 DB에서 해당 Sentence의 감성과 Mapping Emotion Songs Picking → User Recommendation
 
+<p align-"center">
 <img width="999" alt="스무디프로젝트구조" src="https://user-images.githubusercontent.com/109712433/225647507-06868c4e-e196-49c8-b55f-bcfcc428992f.png">
+</p>
 
 ## 🏃‍♀️ **팀 구성 및 역할**
 
