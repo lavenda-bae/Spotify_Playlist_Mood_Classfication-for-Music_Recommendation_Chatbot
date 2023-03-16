@@ -33,7 +33,7 @@
 **여민희**
 
 
-프로젝트 기획, 데이터 분석 및 수집(AI HUB 감성 말뭉치), 데이터 전처리(AI HUB 감성 말뭉치), 모델 학습(감성말뭉치 - Kobert), MySQL, Flask, UI(Figma), PPT
+프로젝트 기획, 데이터 분석 및 수집(AI HUB 감성 말뭉치), 데이터 전처리(AI HUB 감성 말뭉치), 모델 학습(감성말뭉치 - Kobert, kober-finetuning), MySQL, Flask, UI(Figma), PPT
 
 **윤병윤**
 
@@ -48,7 +48,7 @@
 **전은성**
 
 
-모델 학습 (Roberta, Kobert-finetuning), Flask
+모델 학습 (Roberta, Kobert-finetuning), Flask, CSS
 
 # **📚 데이터**
 
