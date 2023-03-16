@@ -5,9 +5,7 @@
 ## 💡프로젝트 진행 배경
 
 - Youtube 에서 특정 감정을 나타내는 단어를 검색 시 **음악,노래** 등이 최상단에 노출됨을 확인
-    
-    ![Screenshot 2023-03-15 at 5.22.40 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/cdf5bc92-6a70-48dc-9168-1a88169c5231/Screenshot_2023-03-15_at_5.22.40_PM.png)
-    
+ 
 - 상당수의 이용자가 스트리밍 알고리즘 서비스에 이어, 감정형용사 검색만으로 손쉽게 음악을 추천 받고 싶어함을 파악
 
 ## 프로젝트 목표
@@ -23,7 +21,7 @@
 
 - User Input (감정 문장) → Sentence Classification → Spotify Moods Data로 구축한 DB에서 해당 Sentence의 감성과 Mapping Emotion Songs Picking → User Recommendation
 
-![Screenshot 2023-03-15 at 4.09.31 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5fd29e0d-4a73-4905-8c2d-cacfcfd1c388/Screenshot_2023-03-15_at_4.09.31_PM.png)
+!<img width="999" alt="스무디프로젝트구조" src="https://user-images.githubusercontent.com/109712433/225647507-06868c4e-e196-49c8-b55f-bcfcc428992f.png"
 
 ## 🏃‍♀️ **팀 구성 및 역할**
 
@@ -51,7 +49,7 @@
 
 - 총 데이터 수 : 74,857개
 
-![Screenshot 2023-03-15 at 4.00.14 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9165bfc1-ad4a-4776-af54-d3e75031eb36/Screenshot_2023-03-15_at_4.00.14_PM.png)
+!<img width="703" alt="스무디 데이터 명세 감성말뭉치" src="https://user-images.githubusercontent.com/109712433/225647501-b698eb85-53cc-413c-bdb0-e9542f465c43.png">
 
 - [감정 대분류, 감정 소분류, 사람문장1]
 [감정 대분류, 감정 소분류, 사람문장2]
@@ -74,7 +72,7 @@ row로 합침
 
 **→ MySQL Emotion Songs DB 구축에 사용**
 
-![Screenshot 2023-03-15 at 4.03.05 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3d27645a-f0b6-41aa-abc2-1cc35985106a/Screenshot_2023-03-15_at_4.03.05_PM.png)
+!<img width="887" alt="스포티파이 데이터명세" src="https://user-images.githubusercontent.com/109712433/225647493-18c68b60-5705-4d74-b0d6-f30088f7d95a.png">
 
 - Spotify에서 랜덤으로 뽑은 학습용 데이터
 - ID : 곡의 전체 feature에 대한 ID
@@ -90,8 +88,8 @@ Loudness, Speechiness, Tempo 등 곡 리듬 정보를 수치형태로 담고 있
 
 (Melon 과 Spotify 음악 데이터)
 
-! <img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png">
-! <img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
+<img width="400" alt="멜론디비고민" src="https://user-images.githubusercontent.com/109712433/225647478-604a9ec7-446c-4579-923c-32f2ebeedf8c.png">
+<img width="400" alt="멜론 디비고민" src="https://user-images.githubusercontent.com/109712433/225647486-abe383b1-04b6-4ef8-af9f-1e2c75dc6826.png">
 
 - Tags 예시
 [‘추억’, ‘회상’], [‘감성’,’ 시작’, ’출발’] 등
@@ -207,19 +205,20 @@ ii) hidden layer와 hidden size를 각각 변경하여 모델 복잡도를 조�
 
 - 사용언어 Python 
 
-![Screenshot 2023-03-15 at 4.22.46 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28086bb8-4bde-4ead-83bc-fcfa2526a732/Screenshot_2023-03-15_at_4.22.46_PM.png)
+<img width="1003" alt="스무디사용툴" src="https://user-images.githubusercontent.com/109712433/225649383-2b106683-6b91-4b48-b1be-bb3049bac6d2.png">
+
 
 - **UI Design Draft**
     
-    ![Loading Page, Main Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/940faf65-b891-4f46-a3b7-56764cd5082a/Screenshot_2023-03-15_at_4.42.25_PM.png)
+    <img width="869" alt="스무디 ui draft 1" src="https://user-images.githubusercontent.com/109712433/225649379-716a4328-4423-42c5-bbf3-303cc24377b3.png">
     
     Loading Page, Main Page
     
-    ![User Input Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e720fc88-1f4c-4191-958e-59a8709f4cff/Screenshot_2023-03-15_at_4.44.04_PM.png)
+    <img width="869" alt="스무디 ui draft 2" src="https://user-images.githubusercontent.com/109712433/225649373-95e41697-54a9-43b2-8b67-dc38e2152760.png"
     
     User Input Page
     
-    ![User Output Page](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/10083ef7-c2e0-4db1-9156-95e583f503a8/Screenshot_2023-03-15_at_4.45.12_PM.png)
+    <img width="869" alt="스무디 ui draft 3" src="https://user-images.githubusercontent.com/109712433/225649371-a1390637-3b1c-4aae-baf8-9869fa1f7428.png">
     
     User Output Page
     
@@ -228,11 +227,11 @@ ii) hidden layer와 hidden size를 각각 변경하여 모델 복잡도를 조�
 - 웹 페이지가 넘어가는 것 보다는 하나의 페이지안에서 동작하는 것이 자연스럽다 생각하여 Socket.IO 를 통해서 구현
 - 노래 5곡 추천과 해당 노래의 정보 확인 및 곡 듣기 가능
     
-    ![하나의 페이지 안에서 동작 (Socket.IO를 통해 구현) ](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6a8a022c-02cb-41eb-9a76-9e6adc64f95f/Screenshot_2023-03-15_at_4.55.01_PM.png)
+    <img width="780" alt="스무디 flask1" src="https://user-images.githubusercontent.com/109712433/225649366-25fd8b13-55ee-4e19-be38-1db633a2d2dd.png">
     
     하나의 페이지 안에서 동작 (Socket.IO를 통해 구현) 
     
-    ![노래 5곡 추천과 해당 노래의 정보 확인 및 곡 듣기 가능](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3310bc8c-4773-447e-990f-9319684ce032/Screenshot_2023-03-15_at_4.58.11_PM.png)
+    <img width="746" alt="스무디 flask 2" src="https://user-images.githubusercontent.com/109712433/225649357-84ab71b4-99f3-436d-a59b-6599c5337b2d.png">
     
     노래 5곡 추천과 해당 노래의 정보 확인 및 곡 듣기 가능
     
